@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   build-website:
     # setting the working_directory along with the checkout path allows us to not have
